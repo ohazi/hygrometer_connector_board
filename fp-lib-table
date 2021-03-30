@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name hygrometer_connector_board)(type KiCad)(uri ${KIPRJMOD}/hygrometer_connector_board.pretty)(options "")(descr ""))
+)
